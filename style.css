@@ -7,17 +7,16 @@ body {
     background-color: BLACK;
 }
 .container {
+    padding: 5px
 display:flex;
 justify-content: space-around;
 flex-wrap: wrap;
-    padding: 5px;
+    text-align: center;
 }
 
 
 #box1 {
-    display:flex;
-    justify-content:center;
-    align-items:center;
+    
     background-color: green;
     width: 200px;
     height: 200px;
