@@ -26,9 +26,6 @@ flex-wrap: wrap;
 }
 
 #box2 {
-     display:flex;
-    justify-content:center;
-    align-items:center;
     background-color: purple;
     width: 200px;
     height: 200px;
