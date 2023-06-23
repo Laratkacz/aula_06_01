@@ -16,6 +16,9 @@ justify-content: space-between;
 
 
 #box1 {
+    display:flex;
+    justify-content:center;
+    align-items:center;
     background-color: green;
     width: 200px;
     height: 200px;
